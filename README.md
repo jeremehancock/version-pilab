@@ -3,7 +3,7 @@ Bludit Plugin - Show the current version on the sidebar of the admin panel, and 
 
 This plugin was built for [Pi Lab](https://pilab.dev).
 
-Compatibility: 3.9.x
+Compatibility: 3.9 - 3.20
 
 ## How to install
 1. Download the latest version from the zips directory.
